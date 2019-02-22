@@ -1,5 +1,4 @@
-#body {background-color:#24A0AC;}
-  .h2 {color:white;font-size: 30px;font-weight:bold;}
-  .p {color:black; font-size: 20px;}
-  .center {display: block; margin: 0 auto;}
+h2 {color:white;font-size: 30px;font-weight:bold;}
+p {color:black; font-size: 20px;}
+center {display: block; margin: 0 auto;}
 
